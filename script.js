@@ -11,7 +11,6 @@ const texts = [
     "2. Scan the QR code with your gadgets.",
     "3. Follow the instructions on the website that opens.",
     "3. Follow the instructions on the website that opens.",
-    ":)",
     "h@Ppy HuNt!ng 😂 Rick rolled??"
 ];
 
