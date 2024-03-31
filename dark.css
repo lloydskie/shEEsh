@@ -8,15 +8,6 @@
       "SCAN" 0;
   }
 
-  @supports (font-variation-settings: "wght" 450) {
-    * {
-      font-family: 'Markazi Text';
-      font-weight: 450;
-    }
-  }
-
-
-
 
 body, html {
     margin: 0;
