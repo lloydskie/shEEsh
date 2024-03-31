@@ -12,7 +12,7 @@ const texts = [
     "3. Follow the instructions on the website that opens.",
     "3. Follow the instructions on the website that opens.",
     ":)",
-    "h@Ppy HuNt!ng"
+    "h@Ppy HuNt!ng 😂 Rick rolled??"
 ];
 
 const morphTime = 1;
