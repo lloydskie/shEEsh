@@ -5,12 +5,10 @@ const elts = {
 
 const texts = [
     "Instructions:",
-    "1. Find the QR code hidden in the library.",
-    "1. Find the QR code hidden in the library.",
-    "2. Scan the QR code with your gadgets.",
-    "2. Scan the QR code with your gadgets.",
-    "3. Follow the instructions on the website that opens.",
-    "3. Follow the instructions on the website that opens.",
+    "Scan the QR code with your gadgets.",
+    "Scan the QR code with your gadgets.",
+    "16.913556, 121.760028",
+    "16.913556, 121.760028",
     "h@Ppy HuNt!ng 😂 Rick rolled??"
 ];
 
