@@ -4,9 +4,8 @@ const elts = {
 };
 
 const texts = [
-    "Instructions:",
-    "Scan the QR code with your gadgets.",
-    "Scan the QR code with your gadgets.",
+    "16.913556, 121.760028",
+    "16.913556, 121.760028",
     "16.913556, 121.760028",
     "16.913556, 121.760028",
     "h@Ppy HuNt!ng 😂 Rick rolled??"
